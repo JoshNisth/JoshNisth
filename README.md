@@ -1,4 +1,4 @@
-## <div align="center">My name is Josue Nisthaus an Welcome to my profile :) </div>
+## <div align="center">My name is Josue Nisthaus and Welcome to my profile :) </div>
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
