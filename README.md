@@ -3,12 +3,11 @@
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
-### <div align="center">I'm a Student of UCB, Bolivia. Still in the process of learning in the world of Data Science, Cloud, Web Development and clean architecture</div>
+### <div align="center">I'm a Systems Engineer, Bolivia. Still in the process of learning in the world of Data Science, Cloud, Web Development and clean architecture</div>
 ## About Me
 
-- 🔭 I’m currently looking for internship
-
-- 😄 I know a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
+- 🔭 I’m currently working at Decisions as a Business Process Engineer.
+- 😄 I like to use CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
 
 - 🌱 I’m currently learning AWS and data science
 - ⚡ I dominate Spanish and English
